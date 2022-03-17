@@ -1,0 +1,3 @@
+tensorboardx
+scipy
+scikit-learn
